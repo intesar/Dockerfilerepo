@@ -1,3 +1,3 @@
 
-FROM makuk66/docker-solr:4.10.4
+FROM nginx:latest
 MAINTAINER DCHQ, Inc. <support@dchq.io>
