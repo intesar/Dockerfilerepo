@@ -20,7 +20,7 @@ This repository contains **Dockerfile** of [RabbitMQ](http://www.rabbitmq.com/) 
 
 ### Usage
 
-#### Run `rabbitmq-server`
+#### Run 
 
     docker run -d -p 5672:5672 -p 15672:15672 dockerfile/rabbitmq
 
